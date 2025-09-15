@@ -1,0 +1,9 @@
+arduino pinovi
+
+Ukupno ima 12 normalnih: 6 PWR oni s crticom i 6 obicnih
+
+BT modul : 1 obicni i 1 PWR
+Ultrasonic sensor : bilokoja 2
+l298n driver : 1 obicni i 2 PWR
+Servo : 1 PWR
+dc motor : ide u sam l298n driver : 0
